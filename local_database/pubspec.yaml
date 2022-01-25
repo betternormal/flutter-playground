@@ -1,0 +1,25 @@
+name: local_database
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  path: ^1.8.0            # 경로를 합칠 때 사용
+  path_provider: ^2.0.5   # Android와 IOS에서 필요한 경로(db파일 저장위치) 알려주는 패키지
+  sqflite: ^2.0.1         # SQLite를 Android와 IOS에 동시에 지원
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+
+  uses-material-design: true
