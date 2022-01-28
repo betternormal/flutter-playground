@@ -1,5 +1,7 @@
 # web_view
 
+![스크린샷 2022-01-28 14 16 23](https://user-images.githubusercontent.com/64571546/151493828-5554260c-2472-4f25-a3a8-f13f306f2740.png)
+
 flutter에서 웹페이지를 보여주거나 웹페이지의 기능을 사용해야할 때 사용한다.
 
 - 웹페이지의 기능을 flutter로 구현하기 힘든경우
