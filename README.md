@@ -6,5 +6,6 @@
 - ### [당근마켓 클론](https://github.com/praconfi/carrot_clone)
 - ### [상태관리](./provider_example)
 - ### [웹뷰](./web_view)
+- ### [Haptic](./haptic)
 
 
